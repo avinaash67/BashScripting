@@ -1,6 +1,6 @@
 #! /bin/bash
 
-:'
+: '
 Reads the file line by line and print the output in stdout(terminal)
 
 Input:

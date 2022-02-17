@@ -1,0 +1,7 @@
+total 16
+drwxrwxr-x 2 avinaash avinaash 4096 Feb 17 23:57 .
+drwxrwxr-x 9 avinaash avinaash 4096 Feb 17 23:53 ..
+-rw-rw-r-- 1 avinaash avinaash   56 Feb 17 23:56 standard_error
+-rw-rw-r-- 1 avinaash avinaash    0 Feb 17 23:57 standard_error_file.txt
+-rw-rw-r-- 1 avinaash avinaash    0 Feb 17 23:57 standard_output_file.txt
+-rwxrwxr-x 1 avinaash avinaash   73 Feb 17 23:56 to_file.sh
