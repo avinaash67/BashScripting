@@ -1,4 +1,5 @@
 ### Send emails using Bash 
+
 Steps:
 	1. sudo apt install ssmtp
 	2. vim /etc/ssmtp/ssmtp.conf
@@ -6,7 +7,7 @@ Steps:
 
 --> Edit ssmtp.conf
 	
-	root= *emailID@mail.com*
+	root=*emailID@mail.com*
 	mailhub=smtp.gmail.com:587        # if it is gmail
 	AuthUser=*emailID@mail.com*       # Same as root
 	AuthPass=*emailPassword*
