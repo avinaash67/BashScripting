@@ -1,3 +1,4 @@
+### Send emails using Bash 
 Steps:
 	1. sudo apt install ssmtp
 	2. vim /etc/ssmtp/ssmtp.conf
