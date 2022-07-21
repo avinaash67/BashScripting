@@ -7,11 +7,11 @@ Steps:
 
 --> Edit ssmtp.conf
 	
-root=*emailID@mail.com*
-mailhub=smtp.gmail.com:587        # if it is gmail
-AuthUser=*emailID@mail.com*       # Same as root
-AuthPass=*emailPassword*
-UseSTARTTLS=yes
+	root=*emailID@mail.com*
+	mailhub=smtp.gmail.com:587        # if it is gmail
+	AuthUser=*emailID@mail.com*       # Same as root
+	AuthPass=*emailPassword*
+	UseSTARTTLS=yes
 
 
 3. Edit and Run bash file in the current directory
