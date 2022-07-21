@@ -20,11 +20,11 @@ Steps:
 
 **Type this in terminal**
 
-To: *emailID@mail.com*
-From: *emailID@mail.com*
-Cc: *emailID@mail.com*
-Subject: *Subject*
-Body of the email
+	To: *emailID@mail.com*
+	From: *emailID@mail.com*
+	Cc: *emailID@mail.com*
+	Subject: *Subject*
+	Body of the email
 
 
 6. Press ctrl+D to exit
